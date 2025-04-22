@@ -4,8 +4,7 @@
 # In[ ]:
 
 
-import os
-os.chdir("C:\\Users\\Administrator")
+
 
 
 # In[1]:
